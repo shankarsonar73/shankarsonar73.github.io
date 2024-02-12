@@ -1,31 +1,31 @@
-# ✨Ateru
-[![Netlify Status](https://api.netlify.com/api/v1/badges/54b2e6b0-246d-4449-ba7b-a88079d6821a/deploy-status)](https://ateru.netlify.app/)
-<hr />
+                                                      **Team BRAHMABYTE**
+# ✨SOVITE
+A Webbased social media platform built on the Tezos blockchain.SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
 
-A Web3 based donation platform built on the Tezos blockchain. Ateru aims to make the act of donating transparent and incentivising using the power of blockchain
+_Built during the HackFusion Hackathon organised in SGGS Nanded by SWAG Community.
 
-_Built during the HackNITP Hackathon organised by NIT Patna on the Healthcare and Open Innovation tracks_
-
-Please note that as this was a 48 hour hackathon, we could not make the site responsive. We built it with reference to the 14" breakpoint
+Please note that as this was a 36 hour hackathon.
 <br />
 
 ## 🔗Relevant Links
 
 1. **Presentation Deck**: [Click Here](https://drive.google.com/file/d/1XXpS4lpJztiEFqpRkTBsf4kk3PiiMm8c/view?usp=sharing)
-2. **Video Pitch**: [Watch Here](https://youtu.be/nuU5HW9zQyE)
-
 <br />
 
-## 🤔What is Ateru?
+## 🤔What is SOVITE?
 
-Ateru is a web3 based donation and fundraising platform. With this product, we aim to solve the problems the existing donation platforms pose - lack of transparency, incentive to donate and heavy convenience fees.
+Sovite is a comprehensive web application designed specifically for college communities, built using the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. It serves as a dynamic platform where students, teachers, and all members associated with the college can interact, share information, and engage in discussions.
+Key Features:
 
-We propose a clean and incentivsing model to bridge the apprehension gap between a philanthropic individual and a donor with the power and transparency of web3. Our intention is not making money, with a 0% cut in donation fees, we wish to empower the needy.
+User-Friendly Interface: Sovite offers a user-friendly interface akin to popular social media platforms like Twitter. Users can easily navigate through different sections and functionalities.
 
-Kindness is a virtue that should be rewarded, every donor gets a customised flaunt-worthy NFT for every donation.
+Multi-Media Content: Users can post a variety of content including text, images, and multimedia files. This allows for dynamic and engaging interactions among community members.
 
-_This was Ateru for you in under 100 words!_
+Community Section: Sovite includes a dedicated community section where different groups within the college, such as clubs, societies, and departments, can create their own spaces to share announcements, events, and discussions relevant to their interests.
 
+Real-Time Interaction: The application supports real-time interactions, enabling users to engage in discussions, react to posts, and receive instant updates on new content.
+
+Responsive Design: The application is designed to be responsive, ensuring seamless user experience across various devices including desktops, tablets, and smartphones.
 <br />
 
 ## 💻 How to Run This Project Locally?
@@ -33,27 +33,38 @@ _This was Ateru for you in under 100 words!_
 1. Clone the repository with the following command
 
 ```sh
-git clone https://github.com/PrabhavPandey/ateru-webapp.git
+git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 ```
 
-2. Run `npm install` or `yarn install` to install all the dependencies
-3. Run `npm start` or `yarn start` to run the project on `localhost:3000`
+1. perform `cd server` then  Run `npm install`then Run `npm start`,to run server
+3. perform `cd client` to run client on the terminal then Run `npm run dev` to run the project on `localhost:3000
+   
 
 <br />
+**Some Screenshots How Tezos works**
+<br/>
+<p align="left"> 
+ <br/>
+Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the **SOVITE+ Subscription**.All the images are shown below how it actually works.
+<br/>
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/WalletPopup.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_09_40.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Success.png" width="400px" />
 
-## 👀Current Deployment
+  </p>
 
-**The site is currently live on Netlify on this link**: [Ateru](https://ateru.netlify.app/) 
-
-_For demonstrative purposes only_
-
-**Some Screenshots of the Website**
+**Some Screenshots of Website**
 
 <p align="left"> 
-<img src="https://user-images.githubusercontent.com/18113725/153751047-2ac66827-2bb9-489d-b240-820693e5b29a.PNG" width="400px" />
-<img src="https://user-images.githubusercontent.com/18113725/153751052-61b82bae-a761-488c-8c83-22cf14aba764.PNG" width="400px" />
-<img src="https://user-images.githubusercontent.com/18113725/153751053-087e5868-2435-4f6c-a7d5-492d5c5bfd9e.PNG" width="400px" />
-<img src="https://user-images.githubusercontent.com/18113725/153751055-cdda9f4f-d739-4e81-95a5-61562456b7da.PNG" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
+<img src="[https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png](https://shankarhere.blob.core.windows.net/shankarsonar/Success.png)" width="400px" />
+   
   </p>
 
 
@@ -61,21 +72,13 @@ _For demonstrative purposes only_
 
 ## 📱Tech Stack and Dependencies
 
-<p  align="left"> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"  alt="react"  width="120"  height="40"/> </a> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://i.postimg.cc/wMVTqcmX/css.png"  alt="scss" width="50px"/> </a> </p>
-
-(ReactJS and CSS3)
-
+**Technologies**: ReactJS,
+                  ExpressJS,
+                  NodeJS and
+                  MongoDB
 **Blockchain Technologies**: Tezos, Beacon-SDK
 
 **Dependencies**: `react-router-dom` and `react-router-hash-link`
-
-<br />
-
-## 💱More on the Usage of Tezos
-
-Clicking the "Login" button in the navbar will open this prompt window and you can choose any wallet to sign in. Currently, as the Tezos testnet endpoint was throwing some errors at our end, we weren't able to test the working, but have written code for login, logout, send and receive XTZ in `App.js`
-
-<img src="https://user-images.githubusercontent.com/18113725/153726402-46182f2b-0a7c-498e-9e40-cbbbedfcef67.PNG" width="700" />
 
 <br />
 <hr />
@@ -84,8 +87,4 @@ Clicking the "Login" button in the navbar will open this prompt window and you c
 
 Have any feedback, any suggestions? Or just want to connect?
 
-Head over to my **[LinkedIn](https://www.linkedin.com/in/prabhav-pandey/)** or **[Github](https://github.com/PrabhavPandey)** profile
-
-
-
-
+Head over to my **[LinkedIn](http://www.linkedin.com/in/shankar-sonar-68243b19b)** or **[Github](https://github.com/shankarsonar73)** profile
